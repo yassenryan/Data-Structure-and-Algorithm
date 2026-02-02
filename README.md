@@ -106,4 +106,4 @@ Resizing dynamic array (ADT) supporting:
 ## ⚙️ How to Run
 1. Clone the repo:  
 ```bash
-git clone https://github.com/yassenryan/your-repo-name.git
+git clone https://github.com/yassenryan/your-repo-name.git](https://github.com/yassenryan/Data-Structure-and-Algorithm
